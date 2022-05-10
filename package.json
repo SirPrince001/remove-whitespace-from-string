@@ -1,0 +1,21 @@
+{
+  "name": "removestringspacewithregex",
+  "version": "1.0.0",
+  "description": "Remove space with regex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SirPrince001"
+  },
+  "keywords": [
+    "[",
+    "npm",
+    "regex",
+    "package]"
+  ],
+  "author": "prince bassey",
+  "license": "ISC"
+}
